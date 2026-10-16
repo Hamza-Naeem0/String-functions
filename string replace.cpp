@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	string name="I like java";
-	name.replace(,5,"CPP");
+	name.replace(7,5,"CPP");
 	cout<<name<<endl;
 	
 	
